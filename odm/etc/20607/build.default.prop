@@ -1,0 +1,43 @@
+
+# InitEnv
+
+# Build.java
+ro.build.id=RKQ1.211103.002
+ro.product.manufacturer=realme
+ro.product.brand=realme
+ro.product.model=RMX2072
+ro.product.name=RMX2072
+ro.product.device=RMX2072CN
+ro.product.first_api_level=29
+ro.build.version.incremental=Q.202207061221
+ro.build.version.release=12
+ro.build.fingerprint=realme/RMX2072/RMX2072CN:12/RKQ1.211103.002/Q.202207061221:user/release-keys
+ro.odm.build.fingerprint=realme/RMX2072/RMX2072CN:12/RKQ1.211103.002/Q.202207061221:user/release-keys
+ro.odm.build.version.incremental=Q.202207061221
+ro.product.odm.brand=realme
+ro.product.odm.manufacturer=realme
+ro.product.odm.model=RMX2072
+ro.product.odm.device=RMX2072CN
+ro.product.odm.name=RMX2072
+ro.odm.build.date=Wed Jul  6 12:54:06 CST 2022
+ro.odm.build.date.utc=1657083246
+ro.bootimage.build.fingerprint=realme/RMX2072/RMX2072CN:12/RKQ1.211103.002/Q.202207061221:user/release-keys
+ro.bootimage.build.version.incremental=Q.202207061221
+ro.product.bootimage.brand=realme
+ro.product.bootimage.manufacturer=realme
+ro.product.bootimage.model=RMX2072
+ro.product.bootimage.device=RMX2072CN
+ro.product.bootimage.name=RMX2072
+ro.bootimage.build.date=Wed Jul  6 12:54:06 CST 2022
+ro.bootimage.build.date.utc=1657083246
+ro.vendor.build.fingerprint=realme/RMX2072/RMX2072CN:12/RKQ1.211103.002/Q.202207061221:user/release-keys
+ro.vendor.build.version.incremental=Q.202207061221
+ro.product.vendor.brand=realme
+ro.product.vendor.manufacturer=realme
+ro.product.vendor.model=RMX2072
+ro.product.vendor.device=RMX2072CN
+ro.product.vendor.name=RMX2072
+ro.vendor.build.date=Wed Jul  6 12:54:06 CST 2022
+ro.vendor.build.date.utc=1657083246
+
+# OPPO

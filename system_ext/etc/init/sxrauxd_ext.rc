@@ -1,0 +1,8 @@
+# File: sxrauxd_ext.rc
+#
+# Copyright (c) 2021 Qualcomm Technologies, Inc.
+# All Rights Reserved.
+# Confidential and Proprietary - Qualcomm Technologies, Inc.
+
+on post-fs-data
+    mkdir /data/misc/sxraux 0770 system system

@@ -1,0 +1,5 @@
+system_ext/apex/com.android.vndk.v30.apex
+system_ext/priv-app/SystemUI/SystemUI.apk
+modem.img
+odm/etc/camera/license_release_fdc.lic
+odm/etc/camera/model/license.lic
